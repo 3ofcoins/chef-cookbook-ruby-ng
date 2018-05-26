@@ -9,4 +9,4 @@ version          '0.3.0'
 supports 'ubuntu'
 
 depends 'apt'
-depends 'build-essential'
+depends 'build-essential', '>= 5.0'
