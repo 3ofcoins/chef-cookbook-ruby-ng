@@ -5,7 +5,8 @@
 - Default to Ruby 2.5
 - Require Chef 13.3+ and remove the need for the apt cookbook
 - Depend on build-essential 5.0+ cookbook and use the build_essential resource instead of thee recipe for improvements on Chef 14+
-- Add Test Kitchen configs for testing
+- Add Test Kitchen & Delivery local mode configs for testing
+- Add a basic ChefSpec setup
 - Add chef_version, issues_url, and source_url metadata to the metadata.rb file
 - Add a chefignore file to limit what files are uploaded to the Chef Server.
 - Add a Berksfile
