@@ -1,5 +1,3 @@
-include_recipe 'apt'
-
 name = "ruby-ng#{'-experimental' if node['ruby-ng']['experimental']}"
 
 apt_repository "brightbox-#{name}" do

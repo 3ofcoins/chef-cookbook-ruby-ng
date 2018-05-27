@@ -5,10 +5,10 @@ license          'MIT'
 description      'Installs Ruby from brightbox/ruby-ng PPA'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '0.3.0'
+chef_version     '>= 13.3'
 source_url       'https://github.com/3ofcoins/chef-cookbook-ruby-ng'
 issues_url       'https://github.com/3ofcoins/chef-cookbook-ruby-ng/issues'
 
 supports 'ubuntu'
 
-depends 'apt'
 depends 'build-essential', '>= 5.0'
