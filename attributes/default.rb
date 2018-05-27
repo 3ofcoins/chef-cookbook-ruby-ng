@@ -1,2 +1,2 @@
 default['ruby-ng']['experimental'] = false
-default['ruby-ng']['ruby_version'] = '2.1'
+default['ruby-ng']['ruby_version'] = '2.5'
