@@ -1,0 +1,14 @@
+name: 'GSA Chef Cookbook ruby-ng'
+description: 'GSA maintained fork of chef-cookbook-ruby-ng'
+license: null
+openSourceProject: 1
+governmentWideReuseProject: 0
+tags:
+  - GSA
+  - search
+  - search.gov
+  - ruby
+  - cookbooks
+  - chef
+contact:
+  email: search@gsa.gov
